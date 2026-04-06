@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"0b6d9850723ff314","type":"text","text":"Ex-DKIM Record","x":-100,"y":-460,"width":250,"height":60},
+		{"id":"fdd3661dd1d1f010","type":"text","text":"p=<public_key>","x":240,"y":-135,"width":220,"height":50},
+		{"id":"64f3a8475519e0f5","type":"text","text":"Tells the public key that will be used to verify the digital signature","x":225,"y":40,"width":250,"height":160},
+		{"id":"7a5b942e49091120","type":"text","text":"v=DKIM1;","x":-400,"y":-135,"width":140,"height":50},
+		{"id":"43593c42dd1a9bde","type":"text","text":"Specifies start of DKIM and Version being used ","x":-455,"y":40,"width":250,"height":120},
+		{"id":"9966605d649cb576","type":"text","text":"k=rsa;","x":-35,"y":-135,"width":120,"height":50},
+		{"id":"97dfd415ee7d3ee9","type":"text","text":"Type of encryption that is being used . Standard is RSA","x":-100,"y":40,"width":250,"height":120}
+	],
+	"edges":[
+		{"id":"b4b4a892ab94d765","fromNode":"0b6d9850723ff314","fromSide":"bottom","toNode":"7a5b942e49091120","toSide":"top"},
+		{"id":"67a250c4083568b2","fromNode":"0b6d9850723ff314","fromSide":"bottom","toNode":"9966605d649cb576","toSide":"top"},
+		{"id":"a1066dc3eae1c27f","fromNode":"0b6d9850723ff314","fromSide":"bottom","toNode":"fdd3661dd1d1f010","toSide":"top"},
+		{"id":"f76fa65e40aa7965","fromNode":"9966605d649cb576","fromSide":"bottom","toNode":"97dfd415ee7d3ee9","toSide":"top"},
+		{"id":"b578bdb695cdd14b","fromNode":"fdd3661dd1d1f010","fromSide":"bottom","toNode":"64f3a8475519e0f5","toSide":"top"},
+		{"id":"1684bd64a3bbb2f4","fromNode":"7a5b942e49091120","fromSide":"bottom","toNode":"43593c42dd1a9bde","toSide":"top"}
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"39c08e82da872de8","x":-125,"y":-360,"width":250,"height":60,"type":"text","text":"Ex-DMARC Record"},
+		{"id":"b53c4b0519f5c747","x":-460,"y":-90,"width":250,"height":60,"type":"text","text":"v=DMARC1"},
+		{"id":"fec7fdaa230dbcbc","x":200,"y":-90,"width":280,"height":60,"type":"text","text":"rua=mailto: address"},
+		{"id":"94b2d10b0eb34dcd","x":-125,"y":-90,"width":250,"height":60,"type":"text","text":"p=quarantine"},
+		{"id":"dc0085bc9fecd3b9","x":-460,"y":60,"width":250,"height":160,"type":"text","text":"Tells starting of DMARC Record and the version that is currently being used "},
+		{"id":"b31a02e08f1472c9","x":-125,"y":30,"width":250,"height":220,"type":"text","text":"Tells what to do if the alignment fails. In this case we have quarantine , we can also have reject "},
+		{"id":"f5fdead0554e23a1","x":215,"y":70,"width":250,"height":140,"type":"text","text":"The specified address will receive an aggregate report"}
+	],
+	"edges":[
+		{"id":"7cc2fc71f3ead53c","fromNode":"39c08e82da872de8","fromSide":"bottom","toNode":"b53c4b0519f5c747","toSide":"top"},
+		{"id":"f2c2f143cacf8fd3","fromNode":"39c08e82da872de8","fromSide":"bottom","toNode":"94b2d10b0eb34dcd","toSide":"top"},
+		{"id":"e6d1dcdae9e7be02","fromNode":"39c08e82da872de8","fromSide":"bottom","toNode":"fec7fdaa230dbcbc","toSide":"top"},
+		{"id":"f4a2119a4596bcce","fromNode":"b53c4b0519f5c747","fromSide":"bottom","toNode":"dc0085bc9fecd3b9","toSide":"top"},
+		{"id":"83c3e6295fc58d06","fromNode":"94b2d10b0eb34dcd","fromSide":"bottom","toNode":"b31a02e08f1472c9","toSide":"top"},
+		{"id":"fc1f0df7b080a664","fromNode":"fec7fdaa230dbcbc","fromSide":"bottom","toNode":"f5fdead0554e23a1","toSide":"top"}
+	]
+}
