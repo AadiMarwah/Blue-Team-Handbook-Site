@@ -1,13 +1,14 @@
-# Zario
+# Universitario
 
-- Theme: Zario
-- Author: <a href="https://gneiss.dev" target="_blank" rel="noopener noreferrer">Ricardo Nazario</a>
+- Theme: Universitario
+- Author: <a href="https://linktr.ee/rincontech" target="_blank" rel="noopener noreferrer">Alonso</a>
+- Support the author: <a href="https://tecito.app/alonsoup" target="_blank" rel="noopener noreferrer">Donate</a>
 
 ## Preview
 
-[Open live preview (Quartz)](https://quartz-themes.github.io/zario/)
+[Open live preview (Quartz)](https://quartz-themes.github.io/universitario/)
 
-[Open live preview (Publish)](https://publish.saberzero.one/zario)
+[Open live preview (Publish)](https://publish.saberzero.one/universitario)
 
 ## Usage (Quartz)
 
@@ -15,7 +16,7 @@
 
 ```yaml
 env:
-  THEME_NAME: zario
+  THEME_NAME: universitario
 ```
 
 ```yaml
@@ -28,7 +29,7 @@ env:
 ```bash
 curl -s -S -o action.sh https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh
 
-./action.sh zario
+./action.sh universitario
 ```
 
 ### Manual install
