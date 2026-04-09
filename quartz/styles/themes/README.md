@@ -1,13 +1,13 @@
-# RetroNotes
+# Zario
 
-- Theme: RetroNotes
-- Author: <a href="https://rubencampelo.com" target="_blank" rel="noopener noreferrer">Sr.Campelo</a>
+- Theme: Zario
+- Author: <a href="https://gneiss.dev" target="_blank" rel="noopener noreferrer">Ricardo Nazario</a>
 
 ## Preview
 
-[Open live preview (Quartz)](https://quartz-themes.github.io/retronotes/)
+[Open live preview (Quartz)](https://quartz-themes.github.io/zario/)
 
-[Open live preview (Publish)](https://publish.saberzero.one/retronotes)
+[Open live preview (Publish)](https://publish.saberzero.one/zario)
 
 ## Usage (Quartz)
 
@@ -15,7 +15,7 @@
 
 ```yaml
 env:
-  THEME_NAME: retronotes
+  THEME_NAME: zario
 ```
 
 ```yaml
@@ -28,7 +28,7 @@ env:
 ```bash
 curl -s -S -o action.sh https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh
 
-./action.sh retronotes
+./action.sh zario
 ```
 
 ### Manual install
