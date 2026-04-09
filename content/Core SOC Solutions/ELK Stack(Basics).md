@@ -1,6 +1,7 @@
 #SOC_Solution #Blue_Teaming 
 
 [[Introduction To SIEM(Security Information & Event management)]]
+
 ELK Stack is collection of open-source tools that help in collecting,storing,visualizing and analyzing the data.This is not a SIEM solution itself but almost works as one ,making it widely used by SOC teams.
 
 ---

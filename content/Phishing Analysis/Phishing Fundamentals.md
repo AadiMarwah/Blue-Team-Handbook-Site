@@ -1,5 +1,5 @@
-#Phishing_Analysis
-#Blue_Teaming 
+#Phishing_Analysis #Blue_Teaming 
+
 Phishing is one of the most used social engineering attack tactics today.In this attack,the attacker relies on the user to click on a malicious link or download a malicious attachment,allowing the threat actor to get a hold of the system or the network.
 
 ---

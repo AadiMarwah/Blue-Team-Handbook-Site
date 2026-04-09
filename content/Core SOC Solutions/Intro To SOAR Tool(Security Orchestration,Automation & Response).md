@@ -1,5 +1,5 @@
-#SOC_Solution 
-#Blue_Teaming 
+#SOC_Solution  #Blue_Teaming 
+
 As the volume and complexity of alerts increase, A SOC team faces many challenges like alert fatigue,too many disconnected tools, inadequate communication with other departments,etc.Making the job of the SOC difficult. To overcome these problems we use the SOAR Tool 
 
 ---

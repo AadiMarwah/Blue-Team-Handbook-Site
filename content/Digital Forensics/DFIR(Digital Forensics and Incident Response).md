@@ -1,6 +1,6 @@
 
-#Digital_Forensics
-#Blue_Teaming 
+#Digital_Forensics #Blue_Teaming 
+
 Digital Forensics and Incident Response are two pillars in the cyber security defensive world which are very important. Incident Response refers to the blueprint that is followed by SOC analyst once an incident occurs and Digital Forensics is the process of investigating artifacts left by the attacker during an event/attack
 
 ---

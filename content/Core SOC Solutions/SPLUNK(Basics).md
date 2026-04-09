@@ -1,6 +1,7 @@
-#SOC_Solution 
-#Blue_Teaming 
+#SOC_Solution #Blue_Teaming 
+
 [[Introduction To SIEM(Security Information & Event management)]]
+
 Splunk is one of the leading SIEM solution that exists in the market. Almost all organizations use SPLUNK in their SOC teams for log analysis.
 
 ---

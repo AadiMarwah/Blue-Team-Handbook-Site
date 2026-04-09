@@ -1,5 +1,4 @@
-#Digital_Forensics 
-#Blue_Teaming 
+#Digital_Forensics #Blue_Teaming 
 
 Volatility is a open-source forensic tool that is made for analyzing memory dumps(snapshots of the RAM of a system) to gather information like processes running,network connections,open files,etc.
 

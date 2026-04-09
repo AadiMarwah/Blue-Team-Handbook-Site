@@ -1,6 +1,5 @@
-#Digital_Forensics 
-#Blue_Teaming 
-#Windows 
+#Digital_Forensics #Blue_Teaming #Windows 
+
 [[Windows Registry]]
 
 The Windows Registry is not the only place that record the users activity on the Operating System . The Windows File System also plays a vital role , there are dedicated location from where we can collect and analyze the artifacts.

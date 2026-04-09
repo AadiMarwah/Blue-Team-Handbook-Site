@@ -1,5 +1,5 @@
-#Phishing_Analysis 
-#Blue_Teaming 
+#Phishing_Analysis #Blue_Teaming 
+
 As Phishing is one of the most used social engineering tactics today,preventive measures are of extreme importance. There are different frameworks and workflows that can be used by organizations in order to stop the phishing attempts.
 
 ---

@@ -1,5 +1,4 @@
-#Digital_Forensics 
-#Blue_Teaming 
+#Digital_Forensics #Blue_Teaming 
 
 
 The Hive Project is an open-source,scalable and freely available security incident response platform which allows security analyst's and practitioners to investigate,track and act upon a identified incident in a swift and a collaborative manner.

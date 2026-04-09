@@ -1,6 +1,5 @@
-#Digital_Forensics 
-#Blue_Teaming 
-#Windows 
+#Digital_Forensics #Blue_Teaming #Windows 
+
 [[Windows_Forensics_CheatSheet.pdf]]
 
 Window's is one of the most widely used operating system for both private as well as commercial use. Having knowledge on how to perform forensic analysis on a windows machine is a must for any person working in forensics.  

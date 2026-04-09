@@ -1,5 +1,5 @@
-#Phishing_Analysis 
-#Blue_Teaming 
+#Phishing_Analysis #Blue_Teaming 
+
 Tools help us in extracting important information from an email for a efficient and effective analysis. 
 
 ---
