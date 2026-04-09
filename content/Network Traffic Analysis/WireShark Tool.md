@@ -1,5 +1,6 @@
 #Network_Analysis 
 #Network_Security 
+#Blue_Teaming 
 Wireshark is one of the most widely used open source tools for packet capture and analysis.As Wireshark is a tool with a GUI or a Graphical User Interface,most of the things we do can be found out by simply tinkering with the tool itself. In this room our focus will be on how to detect the different types of attacks that take place on a network.
 
 

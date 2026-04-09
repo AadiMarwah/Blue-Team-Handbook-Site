@@ -1,4 +1,5 @@
 #Team_Internals
+#Blue_Teaming 
 This is the process of writing detailed reports on alerts, so if escalation is required then the L2 analyst can come up to speed quickly.
 
 ---

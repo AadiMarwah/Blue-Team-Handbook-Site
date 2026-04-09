@@ -1,4 +1,5 @@
 #SOC_Solution
+#Blue_Teaming 
 EDR is a security solution designed to monitor,detect and counter/respond to threats at the endpoint level.By endpoint we can mean many things like servers,workstation,computer.
 
 

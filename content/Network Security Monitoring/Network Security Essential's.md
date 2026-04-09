@@ -1,4 +1,5 @@
 #Network_Security
+#Blue_Teaming 
 In today's time we use pretty complicated networks involving computers,servers,security devices,applications,etc which are not in isolation but interconnected. Ensuring a network's security always has been important because if an attackers gets access to one component of the network then he/she can get access to all the other components with time.
 Here we will look at the fundamental concept that are needed  for ensuring a network's security. 
 

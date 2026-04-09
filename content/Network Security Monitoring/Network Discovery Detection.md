@@ -1,4 +1,5 @@
 #Network_Security 
+#Blue_Teaming 
 Whenever an attacker wants to compromise a network,the first step he/she takes is to understand how the network is operating. The attacker starts by gathering information about the different services available on the network,IP addresses,Open ports,etc. 
 
 ---

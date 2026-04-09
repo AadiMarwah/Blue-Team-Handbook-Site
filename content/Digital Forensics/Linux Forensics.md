@@ -1,4 +1,5 @@
 #Digital_Forensics 
+#Blue_Teaming 
 [[LinuxForensicsCheatsheet.pdf]]
 
 Windows is a widely used operating system that we see in commercial/enterprise environments but it is not the only one. We also have the Linux Operating System which plays major roles in many crucial spots,so knowing how to investigate a Linux environment is as important as investigating a windows one.

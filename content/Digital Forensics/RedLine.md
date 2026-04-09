@@ -1,4 +1,5 @@
 #Digital_Forensics 
+#Blue_Teaming 
 
 Redline is a free tool that allows users to collect and analyze artifacts from an endpoint to determine if the endpoint/system is affected with malware. 
 

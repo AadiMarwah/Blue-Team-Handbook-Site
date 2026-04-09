@@ -1,4 +1,5 @@
 #SOC_Solution 
+#Blue_Teaming 
 SIEM is a centralised solution for looking at logs collected from different sources/endpoints. 
 
 ---

@@ -1,4 +1,5 @@
 #Team_Internals 
+#Blue_Teaming 
 [[Alert Reporting]]
 This is the first steps that are taken when dealing with attacks . Here we organize the alerts and filter them out properly.
 

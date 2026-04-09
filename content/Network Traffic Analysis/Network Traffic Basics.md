@@ -1,4 +1,5 @@
 #Network_Analysis
+#Blue_Teaming 
 Network Traffic Analysis is the process of capturing a networks traffic,inspecting it and finally doing analysis on it to draw conclusion(whether an incident is normal or suspicious). 
 
 ---

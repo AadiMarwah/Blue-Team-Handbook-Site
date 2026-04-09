@@ -1,4 +1,5 @@
 #Team_Internals  
+#Blue_Teaming 
 A SOC team should perform at the highest possible efficiency level it can , now there are different metrics using which efficiency can be determined .
 
 ---

@@ -1,4 +1,5 @@
 #Digital_Forensics 
+#Blue_Teaming 
 
 Kroll Artifact Parser and Extractor is a digital forensics and incident response tool which allows analyst's to quickly extract forensic artifacts from a windows machine and process them for suspicious activities using specially crafted modules. 
 

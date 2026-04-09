@@ -1,4 +1,5 @@
 #Cyber_Frameworks
+#Blue_Teaming 
 Pyramid of pain can be considered as a frameworks where we aim to move toward the top of the pyramid. The more we get to the top the more it is painful for the attacker
 
 ---

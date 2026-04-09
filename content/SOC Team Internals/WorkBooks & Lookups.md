@@ -1,4 +1,5 @@
 #Team_Internals 
+#Blue_Teaming 
 [[Alert Triage]]
 Workbooks are designed so that for specific cases or for specific events , triaging can be done efficiently and effectively without missing any key details.
 
