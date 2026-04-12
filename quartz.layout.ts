@@ -72,9 +72,9 @@ export const defaultContentPageLayout: PageLayout = {
     zoom: true,
     depth: -1,
     scale: 0.9,
-    repelForce: 0.5,
+    repelForce: 0.8,
     centerForce: 0.3,
-    linkDistance: 30,
+    linkDistance: 60,
     fontSize: 0.6,
     opacityScale: 1,
     removeTags: [], // what tags to remove from the graph
